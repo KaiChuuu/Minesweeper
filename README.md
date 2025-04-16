@@ -16,8 +16,8 @@ This version of Minesweeper includes multiple modes and customizable board sizes
 
 <p float="left">
   <img src="imgs/minesweeper-img1.jpg" width="800" height="750" />
-  <img src="imgs/minesweeper-img2.jpg" width="500" height="500"/>
-  <img src="imgs/minesweeper-img3.jpg" width="500" height="500"/>
+  <img src="imgs/minesweeper-img2.jpg" width="800" height="750" />
+  <img src="imgs/minesweeper-img3.jpg" width="800" height="750" />
 </p>
 
 ## Project Structure
